@@ -110,10 +110,10 @@ GPA: **3.9 / 4.0**
 
 ---
 
-### 📫 Connect
-<a href="https://www.linkedin.com/in/dev-p-5aba5b132"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Patel-blue?style=flat&logo=linkedin"/></a>
-<a href="https://github.com/devptl23"><img src="https://img.shields.io/badge/GitHub-devptl23-lightgrey?style=flat&logo=github"/></a>
-<a href="mailto:2000dev.p@gmail.com"><img src="https://img.shields.io/badge/Email-2000dev.p@gmail.com-red?style=flat&logo=gmail"/></a>
+### 📫 Connect With Me
+<a href="https://www.linkedin.com/in/dev-p-5aba5b132"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Patel-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/devptl23"><img src="https://img.shields.io/badge/GitHub-devptl23-lightgrey?style=for-the-badge&logo=github"/></a>
+<a href="mailto:2000dev.p@gmail.com"><img src="https://img.shields.io/badge/Email-2000dev.p@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 
 ---
 
